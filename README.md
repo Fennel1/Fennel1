@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey, Fennel1 here! :wave:
 
-<!--
-**Fennel1/Fennel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Fennel1&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Fennel1&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-Here are some ideas to get you started:
+-   :hammer_and_pick: 
+-   :pencil2:
+-   :seedling: 
+-   :man_scientist: 
+-   :man:
+-   :thought_balloon:
+-   :key: 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
