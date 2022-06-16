@@ -1,7 +1,19 @@
 ## Hey, Fennel1 here! :wave:
 
-[<img align="left" src="https://github-readme-stats-ouuan.vercel.app/api?username=Fennel1&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="left" src="https://github-readme-stats-ouuan.vercel.app/api?username=Fennel1&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
----
-
+<div align="center">
+    <h3>
+        My Weekly Code Stats
+    </h3>
+</div>
+<div align="center">
+   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=Fennel1&theme=dark&show_icons=true">
+</div>
+<div align="center">
+    <h3>
+        My Github Stats
+    </h3>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fennel1&show_icons=true&hide_border=true&theme=buefy">
+</div>
 
